@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import { saveAs } from 'file-saver';
 import { jsPDF } from 'jspdf';

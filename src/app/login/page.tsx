@@ -1,5 +1,4 @@
 import React from 'react';
-import '../app/globals.css';
 import Link from 'next/link';
 const Login: React.FC = () => {
   return (
